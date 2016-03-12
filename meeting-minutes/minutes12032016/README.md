@@ -1,5 +1,5 @@
 # Minutes from 12.03.2016
-### Attendees: Aurelie, Nandaja, Behrang (and Hrishi as Batman, who mysteriously appeared and disappeared, as super-heros are wont to do)
+### Attendees: Aurelie, Nandaja, Behrang (and Hrishi as Batman, who mysteriously appeared and disappeared, as super-heroes are wont to do)
 
 ## Organising the codebase
 Sharing code: Aurelie and Behrang will share the code they wrote for evaluation purposes. The large databases and datasets will be put on a Trento server for now, and might migrate to the CLARIN project in the future when Aurelie is unemployed and server-less again.
