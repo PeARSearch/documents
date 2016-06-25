@@ -6,9 +6,8 @@ Attendees:
 
 * Organise funding
 * State of DHT
-* New repos that have been created over the last months: plans?
 * Cambridge update
-* Dmitri and solid
+* Dmitri and solid -- perhaps linked to security query on old repo?
 * Behrang and Aurelie re. open vectors
 * Gerben
 * ...
