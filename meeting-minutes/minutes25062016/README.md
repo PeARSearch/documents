@@ -4,7 +4,8 @@ Attendees:
 
 ## Items to discuss
 
-* Organise funding
+* General news (paper accepted, Shobha's PhD, etc)
+* Organise Mozilla funding
 * State of DHT
 * Cambridge update
 * Dmitri and solid -- perhaps linked to security query on old repo?
