@@ -1,4 +1,4 @@
-# Minutes of 25.06.2016
+# Minutes of 17.09.2016
 
 Attendees:
 
