@@ -6,8 +6,9 @@ Attendees:
 
 * Discuss design requirements with Jaison
 * State of DHT
-* State of indexer
-* The repos are in a mess
+* State of indexer, opinions on real-time indexing (daemon, add-on, both?)
+* The repos are in a mess. We're not always very good at checking the
+  discussion board.
 * Documentation
 * Cambridge update
 * ...
