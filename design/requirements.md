@@ -9,7 +9,7 @@ so this should be checked too.
 Things we might want:
 
 * A news section on the front page (for instance, we still don't have anything
- saying anywhere that we got the Mozilla funding...)
+ saying anywhere that we got the Mozilla award...)
 * Perhaps a blog section, where we could report news in more depth, etc?
 * We should all update our bios if needed. Could we perhaps try to have them
  all roughly the same length, so that the whole thing is aesthetically
